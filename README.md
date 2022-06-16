@@ -83,6 +83,7 @@ Før en underkategori (subkat) kan oprettes, skal samtlige felter (kolonner) i t
 
 <br><br>
 <h2>3. Implementer database</h2>
+```php
 <?php
 //Create database
 $servername = "localhost";
@@ -171,7 +172,7 @@ foreach($errors as $msg) {
 }
 $dbconnect->close();
 ?>
-
+```
 <br><br>
 <h2>4. Udfyld database</h2>
 
