@@ -1,5 +1,6 @@
 # 2. semester
 
+<h2>1. Analyse og design</h2>
 
 ![use case](https://user-images.githubusercontent.com/93712648/174123500-d58f97e6-ff85-4d59-b4bc-e94644a4e0fc.png)
 
@@ -29,6 +30,7 @@ En artikel kan have nul eller flere underkategorier (subcat).
 **Subcat > article**
 En underkategori (subcat) kan have nul eller flere artikler.
 
+
 <h3>Kriterier for oprettelse af en post i databasen</h3>
 
 <h4>User</h4>
@@ -44,5 +46,6 @@ Før en hovedkategori (maincat) kan oprettes, skal samtlige felter (kolonner) i 
 
 <h4>Underkategori</h4>
 Før en underkategori (subkat) kan oprettes, skal samtlige felter (kolonner) i tabellen være udfyldt.
+
 
 <h2>3. Implementer database</h2>
