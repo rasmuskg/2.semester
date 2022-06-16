@@ -189,10 +189,34 @@ $dbconnect->close();
 e
 ```
 
+<h3>Vis overkategorier og antal underkategorier der er hhv. oprettet og synlige for online brugere</h3>
+
+```php
+e
+```
+
+<h3>Vis underkategorier og antallet af indlæg der registreret under dem hver især</h3>
+
+```php
+e
+```
+
 <h3>Søg efter indlæg skrevet om varen, Malm</h3>
 
 ```php
 SELECT *
 FROM `article`
 WHERE `article` LIKE '%malm%'
+```
+
+<h3>Vis information om contributors</h3>
+
+```php
+e
+```
+
+<h3>Vis information om contributors indlæg</h3>
+
+```php
+e
 ```
