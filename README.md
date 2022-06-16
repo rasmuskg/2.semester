@@ -192,13 +192,13 @@ SELECT * FROM maincat, subcat;
 <h3>Vis overkategorier og antal underkategorier der er hhv. oprettet og synlige for online brugere</h3>
 
 ```php
-SELECT maincat.maincat_name, subcat.subcat_name, COUNT(*) FROM campers GROUP BY maincat.maincat_name;
+SELECT maincat.maincat_name, subcat.subcat_name, COUNT(*) FROM campers GROUP BY maincat.maincat_name, subcat.subcat_name;
 ```
 
 <h3>Vis underkategorier og antallet af indlæg der registreret under dem hver især</h3>
 
 ```php
-e
+SELECT maincat.maincat_name, subcat.subcat_name, COUNT(*) FROM campers GROUP BY maincat.maincat_name, subcat.subcat_name;
 ```
 
 <h3>Søg efter indlæg skrevet om varen, Malm</h3>
