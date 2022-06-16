@@ -6,6 +6,14 @@
 
 ![use case](https://user-images.githubusercontent.com/93712648/174123500-d58f97e6-ff85-4d59-b4bc-e94644a4e0fc.png)
 
+For at få adgang til profil-siden på denne webapp, hvor brugeren (user/contributor) har adgang til alle funktioner, skal brugeren først logge ind. Hvis brugeren har et login, kan der straks logges ind. Hvis ikke, skal brugeren først oprette et login. 
+
+Når brugeren logger ind med forkerte oplysninger, melder systemet fejl. Desuden skal passwordet bekræftes i databasen, før brugeren får adgang. 
+
+Fra brugerens profilside er der adgang til at: Se egne hacks (my hacks), se andres hacks (all hacks), lave et hack (create hack), gemme et hack (save hack) og bedømme et hack (rate hack).
+
+
+
 <h3>Wireframes (contributor)</h3>
 LINK
 
