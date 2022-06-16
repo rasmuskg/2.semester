@@ -9,13 +9,14 @@
 <h3>Wireframes (contributor)</h3>
 LINK
 
-<img width="1440" alt="1" src="https://user-images.githubusercontent.com/93712648/174129466-e22b5e86-81c0-47ca-937f-a50f9be6e839.png">
-<img width="1440" alt="2" src="https://user-images.githubusercontent.com/93712648/174129519-1ca3b7b0-1751-47ea-acdb-ef6fc593b396.png">
-<img width="1440" alt="3" src="https://user-images.githubusercontent.com/93712648/174129539-125084cf-b339-412a-9db5-745cc20f7276.png">
-<img width="1440" alt="4" src="https://user-images.githubusercontent.com/93712648/174129753-0dd40e5b-5154-4bec-9e6d-93a4bebe91e6.png">
-<img width="1440" alt="5" src="https://user-images.githubusercontent.com/93712648/174129756-c49362f7-6a4c-4ebe-ae0d-49915464d91e.png">
-<img width="1440" alt="6" src="https://user-images.githubusercontent.com/93712648/174129761-f5dbc803-b390-469f-b284-3e9a9af069ae.png">
-<img width="1440" alt="7" src="https://user-images.githubusercontent.com/93712648/174129767-1efa1ffd-0524-4c6c-9a68-23ac0884ab24.png">
+<img width="1432" alt="1" src="https://user-images.githubusercontent.com/93712648/174130216-4a7ff6aa-6811-4598-9314-0a95ac089982.png">
+<img width="1435" alt="2" src="https://user-images.githubusercontent.com/93712648/174130227-3a837847-faba-4295-b59b-3541420325b7.png">
+<img width="1436" alt="3" src="https://user-images.githubusercontent.com/93712648/174130232-9ab35cf0-287c-4b15-b311-289b90ed00f1.png">
+<img width="1435" alt="4" src="https://user-images.githubusercontent.com/93712648/174130241-7b05e4ac-900d-4852-b53f-1c8ecbb4889e.png">
+<img width="1436" alt="5" src="https://user-images.githubusercontent.com/93712648/174130245-ff0f0a83-fcb0-47a0-b5fa-54c3811c5e94.png">
+<img width="1435" alt="6" src="https://user-images.githubusercontent.com/93712648/174130248-d67e8881-4639-4047-a486-ef74c79a7775.png">
+<img width="1436" alt="7" src="https://user-images.githubusercontent.com/93712648/174130255-8c3032cb-6806-4f75-b414-dee8988fd2b5.png">
+
 
 <h2>2. Design database</h2>
 
