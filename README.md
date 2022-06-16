@@ -90,7 +90,6 @@ Før en underkategori (subkat) kan oprettes, skal samtlige felter (kolonner) i t
 $servername = "localhost";
 $username = "root";
 $password = "";
-/* Her oprettes forbindelsen, dette er dog flyttet efterfølgende til filen addConnect.php */
 $dbconnect = new mysqli($servername, $username, $password);
 /* Check if connection is established */
 if ($dbconnect->connect_error) {
