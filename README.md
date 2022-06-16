@@ -73,5 +73,11 @@ Før en hovedkategori (maincat) kan oprettes, skal samtlige felter (kolonner) i 
 <h4>Underkategori</h4>
 Før en underkategori (subkat) kan oprettes, skal samtlige felter (kolonner) i tabellen være udfyldt.
 
-
+<br><br>
 <h2>3. Implementer database</h2>
+
+<br><br>
+<h2>4. Udfyld database</h2>
+
+<br><br>
+<h2>5. Databasefunktioner</h2>
