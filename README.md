@@ -41,7 +41,7 @@ Fra brugerens profilside er der adgang til at: Se egne hacks (my hacks), se andr
 <h2>2. Design database</h2>
 
 ER diagram med entiteter, relationer og kardinaliteter.
-![erd](https://user-images.githubusercontent.com/93712648/174128253-895c958a-a58b-4215-b1de-9aa25836a68b.png)
+![erd](https://user-images.githubusercontent.com/93712648/174136607-7502ac43-8e98-4019-8ac2-c262a1c10706.png)
 
 
 I vores database, IKEADB, har vi behov for 4 tabeller: user, article, maincat og subcat. Disse 4 tabeller udgør databasens entiteter. Ovenstående ER Diagram viser relationen mellem databasens entiteter. Multipliciteten eller kardinaliteterne forklares således: 
