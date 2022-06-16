@@ -185,7 +185,10 @@ $dbconnect->close();
 <h3>Vis over- og underkategorier</h3>
 
 ```php
-SELECT * FROM maincat, subcat;
+SELECT mainnav.maincat_name, subcat.subcat_name  
+FROM mainnav  
+JOIN subcat
+ON mainnav.maincat_name = subcat.subcat_name
 ```
 
 <h3>Vis overkategorier og antal underkategorier der er hhv. oprettet og synlige for online brugere</h3>
