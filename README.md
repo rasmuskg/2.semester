@@ -192,12 +192,7 @@ SELECT * FROM maincat, subcat;
 <h3>Vis overkategorier og antal underkategorier der er hhv. oprettet og synlige for online brugere</h3>
 
 ```php
-SELECT COUNT(1)
-FROM articles
-INNER JOIN s_a_c c1 ON articles.product_id = c1.product_id
-    AND c1.category_id = 1
-INNER JOIN s_a_c c2 ON articles.product_id = c2.product_id
-    AND c2.category_id = 6
+SELECT maincat.maincat_name, subcat.subcat_name, COUNT(*) FROM campers GROUP BY maincat.maincat_name;
 ```
 
 <h3>Vis underkategorier og antallet af indlæg der registreret under dem hver især</h3>
