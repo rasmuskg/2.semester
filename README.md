@@ -2,11 +2,17 @@
 
 <h2>1. Analyse og design</h2>
 
+<h3>Use case diagram for webapp'en.</h3>
 ![use case](https://user-images.githubusercontent.com/93712648/174123500-d58f97e6-ff85-4d59-b4bc-e94644a4e0fc.png)
+
+<h3>Wireframes</h3>
+LINK
+
+
 
 <h2>2. Design database</h2>
 
-ER Diagram med entiteter, relationer og kardinaliteter.
+ER diagram med entiteter, relationer og kardinaliteter.
 ![erd](https://user-images.githubusercontent.com/93712648/174128253-895c958a-a58b-4215-b1de-9aa25836a68b.png)
 
 
