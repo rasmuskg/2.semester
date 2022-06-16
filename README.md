@@ -15,7 +15,7 @@ Fra brugerens profilside er der adgang til at: Se egne hacks (my hacks), se andr
 
 
 <h3>Wireframes (contributor)</h3>
-<a href="https://www.figma.com/proto/4Qh4LO264MYrTCj1ktGnsA/IKEA-Hacks---Contributor?node-id=14%3A2&starting-point-node-id=14%3A2" target="_blank">Se prototype her</a><br><br>
+<a href="https://www.figma.com/proto/4Qh4LO264MYrTCj1ktGnsA/IKEA-Hacks---Contributor?node-id=14%3A2&starting-point-node-id=14%3A2" target="_blank">Se klikbar prototype her</a><br><br>
 
 <img width="1432" alt="1" src="https://user-images.githubusercontent.com/93712648/174130216-4a7ff6aa-6811-4598-9314-0a95ac089982.png">
 <img width="1435" alt="2" src="https://user-images.githubusercontent.com/93712648/174130227-3a837847-faba-4295-b59b-3541420325b7.png">
@@ -26,7 +26,7 @@ Fra brugerens profilside er der adgang til at: Se egne hacks (my hacks), se andr
 <img width="1436" alt="7" src="https://user-images.githubusercontent.com/93712648/174130255-8c3032cb-6806-4f75-b414-dee8988fd2b5.png">
 
 <h3>Wireframes (administrator)</h3>
-<a href="https://www.figma.com/proto/9PXVOB1noPOAKl3R8q4gbD/IKEA-Hacks---Administrator?node-id=14%3A2&starting-point-node-id=14%3A2" target="_blank">Se prototype her</a><br><br>
+<a href="https://www.figma.com/proto/9PXVOB1noPOAKl3R8q4gbD/IKEA-Hacks---Administrator?node-id=14%3A2&starting-point-node-id=14%3A2" target="_blank">Se klikbar prototype her</a><br><br>
 
 <img width="1437" alt="21" src="https://user-images.githubusercontent.com/93712648/174131073-7dc0a9d5-4722-4224-9189-8684d71c836f.png">
 <img width="1437" alt="22" src="https://user-images.githubusercontent.com/93712648/174131080-39287a5d-b54c-42c7-8074-6bc29b6dd7a4.png">
@@ -83,7 +83,96 @@ Før en underkategori (subkat) kan oprettes, skal samtlige felter (kolonner) i t
 
 <br><br>
 <h2>3. Implementer database</h2>
-Se create_database.php.
+<code>
+<?php
+//Create database
+$servername = "localhost";
+$username = "root";
+$password = "";
+/* Her oprettes forbindelsen, dette er dog flyttet efterfølgende til filen addConnect.php */
+$dbconnect = new mysqli($servername, $username, $password);
+/* Check if connection is established */
+if ($dbconnect->connect_error) {
+    die("Connection failed: " . $dbconnect->connect_error);
+/* Create database */
+$sql = "CREATE DATABASE IKEADB";
+if ($dbconnect->query($sql) === TRUE) {
+    echo "Database created";
+}
+else
+{
+    echo "Error while establishing to database: " . $dbconnect->error;
+}
+$dbconnect->close();
+?>
+
+<?php
+//Table creation
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "IKEADB";
+//Establishing connection to database with name of database
+$dbconnect = new mysqli($servername, $username, $password, $dbname);
+/* Another check if connection to database is established */
+if ($dbconnect->connect_error) {
+    die("Connection failed: " . $dbconnect->connect_error);
+/* Create table */
+$user = "CREATE TABLE USER (
+    user_id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    user_firstname VARCHAR(30) NOT NULL,
+    user_lastname VARCHAR(30) NOT NULL,
+    user_email VARCHAR(30) NOT NULL,
+    user_passw CHAR(128),
+    ROLE VARCHAR(9)
+    )";
+
+$article = "CREATE TABLE ARTICLE (
+    article_id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    article_name VARCHAR(30) NOT NULL,
+    article_maincat VARCHAR(30) NOT NULL,
+    article_subcat VARCHAR(30) NOT NULL,
+    article_image VARCHAR(30) NOT NULL,
+    article_creator VARCHAR(30) NOT NULL,
+    article_created VARCHAR(30) NOT NULL,
+    article_status VARCHAR(30) NOT NULL,
+    article_description VARCHAR(128) NOT NULL
+    )";
+
+$maincat = "CREATE TABLE USER (
+    maincat_id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    maincat_name VARCHAR(30) NOT NULL,
+    maincat_created VARCHAR(30) NOT NULL,
+    maincat_image VARCHAR(30) NOT NULL
+    )";
+
+$subcat = "CREATE TABLE USER (
+    subcat_id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    subcat_name VARCHAR(30) NOT NULL,
+    subcat_parent VARCHAR(30) NOT NULL,
+    subcat_image VARCHAR(30) NOT NULL,
+    subcat_created VARCHAR(30) NOT NULL
+    )";    
+
+$tables = [$user, $article, $maincat, $subcat];
+
+
+foreach($tables as $k => $sql){
+    $query = @$conn->query($sql);
+
+    if(!$query)
+       $errors[] = "Table $k : Creation failed ($conn->error)";
+    else
+       $errors[] = "Table $k : Creation done";
+}
+
+
+foreach($errors as $msg) {
+   echo "$msg <br>";
+}
+$dbconnect->close();
+?>
+</code>
 
 <br><br>
 <h2>4. Udfyld database</h2>
