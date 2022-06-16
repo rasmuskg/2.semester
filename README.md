@@ -186,7 +186,7 @@ $dbconnect->close();
 <h3>Vis over- og underkategorier</h3>
 
 ```php
-e
+SELECT * FROM maincat, subcat;
 ```
 
 <h3>Vis overkategorier og antal underkategorier der er hhv. oprettet og synlige for online brugere</h3>
@@ -212,11 +212,11 @@ WHERE `article` LIKE '%malm%'
 <h3>Vis information om contributors</h3>
 
 ```php
-e
+SELECT * FROM users;
 ```
 
 <h3>Vis information om contributors indlæg</h3>
 
 ```php
-e
+SELECT * FROM articles;
 ```
