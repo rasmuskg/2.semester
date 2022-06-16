@@ -179,15 +179,19 @@ $dbconnect->close();
 <h2>4. Udfyld database</h2>
 
 <h3>'user'</h3>
+
 ![Blank diagram - Page 2](https://user-images.githubusercontent.com/93712648/174150678-cdc62ba7-8b8a-4656-9d2e-55ba61a64240.png)
 
 <h3>'article'</h3>
+
 ![Blank diagram - Page 3](https://user-images.githubusercontent.com/93712648/174150688-7c7add3f-8f7b-4c90-94ac-704d7493b817.png)
 
 <h3>'maincat'</h3>
+
 ![Blank diagram - Page 4](https://user-images.githubusercontent.com/93712648/174150704-ae8b2642-8550-45a6-8a6f-566641a97c08.png)
 
 <h3>'subcat'</h3>
+
 ![Blank diagram - Page 5](https://user-images.githubusercontent.com/93712648/174150723-9eb1af41-96ae-4d63-b6b5-623170e3c6af.png)
 
 
