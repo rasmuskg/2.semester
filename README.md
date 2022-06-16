@@ -27,10 +27,15 @@ En underkategori (subcat) kan have nul eller flere artikler.
 <h2>Kriterier for oprettelse af en post i databasen</h2>
 
 <h3>User</h3>
+Før en user kan oprettes, skal samtlige felter (kolonner) i tabellen være udfyldt.
 
 <h3>Article</h3>
-Før en artikel kan oprettes men ikke publiceres, skal følgende kriterier være opfyldt: 
-- article_name skal være udfyldt.
+Før en artikel kan oprettes men ikke publiceres, skal følgende kriterier være opfyldt: article_name skal være udfyldt.
 
 Før en artikel kan publiceres, skal samtlige felter (kolonner) i tabellen være udfyldt.
 
+<h3>Hovedkategori</h3>
+Før en hovedkategori (maincat) kan oprettes, skal samtlige felter (kolonner) i tabellen være udfyldt.
+
+<h3>Underkategori</h3>
+Før en underkategori (subkat) kan oprettes, skal samtlige felter (kolonner) i tabellen være udfyldt.
