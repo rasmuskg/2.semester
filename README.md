@@ -82,7 +82,7 @@ Før en hovedkategori (maincat) kan oprettes, skal samtlige felter (kolonner) i 
 Før en underkategori (subkat) kan oprettes, skal samtlige felter (kolonner) i tabellen være udfyldt.
 
 <br><br>
-<h2>3. Implementer database</h2>
+<h2>3. Oprettelse af database samt tabeller</h2>
 
 ```php
 <?php
