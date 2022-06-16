@@ -3,8 +3,9 @@
 
 ![use case](https://user-images.githubusercontent.com/93712648/174123500-d58f97e6-ff85-4d59-b4bc-e94644a4e0fc.png)
 
-<h2>2. Design Database</h2>
+<h2>2. Design database</h2>
 
+ER Diagram med entiteter, relationer og kardinaliteter.
 ![erd](https://user-images.githubusercontent.com/93712648/174128253-895c958a-a58b-4215-b1de-9aa25836a68b.png)
 
 
@@ -28,18 +29,20 @@ En artikel kan have nul eller flere underkategorier (subcat).
 **Subcat > article**
 En underkategori (subcat) kan have nul eller flere artikler.
 
-<h2>Kriterier for oprettelse af en post i databasen</h2>
+<h3>Kriterier for oprettelse af en post i databasen</h3>
 
-<h3>User</h3>
+<h4>User</h4>
 Før en user kan oprettes, skal samtlige felter (kolonner) i tabellen være udfyldt.
 
-<h3>Article</h3>
+<h4>Article</h4>
 Før en artikel kan oprettes men ikke publiceres, skal følgende kriterier være opfyldt: article_name skal være udfyldt.
 
 Før en artikel kan publiceres, skal samtlige felter (kolonner) i tabellen være udfyldt.
 
-<h3>Hovedkategori</h3>
+<h4>Hovedkategori</h4>
 Før en hovedkategori (maincat) kan oprettes, skal samtlige felter (kolonner) i tabellen være udfyldt.
 
-<h3>Underkategori</h3>
+<h4>Underkategori</h4>
 Før en underkategori (subkat) kan oprettes, skal samtlige felter (kolonner) i tabellen være udfyldt.
+
+<h2>3. Implementer database</h2>
