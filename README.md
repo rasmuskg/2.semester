@@ -25,4 +25,7 @@ En artikel kan have nul eller flere underkategorier (subcat).
 En underkategori (subcat) kan have nul eller flere artikler.
 
 Før en artikel kan oprettes men ikke publiceres, skal følgende kriterier være opfyldt: 
-- article_name skal udfyldes.
+- article_name skal være udfyldt.
+
+Før en artikel kan publiceres, skal samtlige felter (kolonner) i tabellen være udfyldt.
+
