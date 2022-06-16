@@ -180,5 +180,12 @@ $dbconnect->close();
 
 ![Blank diagram-2](https://user-images.githubusercontent.com/93712648/174151015-5bd082cb-f42d-4503-b1aa-bfd72b74dc8a.png)
 
-<br><br>
 <h2>5. Databasefunktioner</h2>
+
+<h3>Søg efter indlæg skrevet om varen, Malm</h3>
+
+```php
+SELECT *
+FROM `article`
+WHERE `article` LIKE '%malm%'
+```
