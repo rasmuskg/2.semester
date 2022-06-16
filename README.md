@@ -26,7 +26,7 @@ LINK
 <img width="1436" alt="7" src="https://user-images.githubusercontent.com/93712648/174130255-8c3032cb-6806-4f75-b414-dee8988fd2b5.png">
 
 <h3>Wireframes (administrator)</h3>
-LINK
+<a href="https://www.figma.com/proto/9PXVOB1noPOAKl3R8q4gbD/IKEA-Hacks---Administrator?node-id=14%3A2&starting-point-node-id=14%3A2" target="_blank">Se prototype her</a>.
 
 <img width="1437" alt="21" src="https://user-images.githubusercontent.com/93712648/174131073-7dc0a9d5-4722-4224-9189-8684d71c836f.png">
 <img width="1437" alt="22" src="https://user-images.githubusercontent.com/93712648/174131080-39287a5d-b54c-42c7-8074-6bc29b6dd7a4.png">
