@@ -15,7 +15,7 @@ En artikel kan kun have én user (contributor).
 **Article > maincat**
 En artikel kan kun have én hovedkategori (maincat).
 
-**Maincat > article **
+**Maincat > article**
 En hovedkategori kan have nul eller flere artikler.
 
 **Article > subcat**
@@ -23,3 +23,6 @@ En artikel kan have nul eller flere underkategorier (subcat).
 
 **Subcat > article**
 En underkategori (subcat) kan have nul eller flere artikler.
+
+Før en artikel kan oprettes men ikke publiceres, skal følgende kriterier være opfyldt: 
+- article_name skal udfyldes.
