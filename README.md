@@ -3,12 +3,19 @@
 <h2>1. Analyse og design</h2>
 
 <h3>Use case diagram for webapp'en.</h3>
+
 ![use case](https://user-images.githubusercontent.com/93712648/174123500-d58f97e6-ff85-4d59-b4bc-e94644a4e0fc.png)
 
-<h3>Wireframes</h3>
+<h3>Wireframes (contributor)</h3>
 LINK
 
-
+<img width="1440" alt="1" src="https://user-images.githubusercontent.com/93712648/174129466-e22b5e86-81c0-47ca-937f-a50f9be6e839.png">
+<img width="1440" alt="2" src="https://user-images.githubusercontent.com/93712648/174129519-1ca3b7b0-1751-47ea-acdb-ef6fc593b396.png">
+<img width="1440" alt="3" src="https://user-images.githubusercontent.com/93712648/174129539-125084cf-b339-412a-9db5-745cc20f7276.png">
+<img width="1440" alt="4" src="https://user-images.githubusercontent.com/93712648/174129753-0dd40e5b-5154-4bec-9e6d-93a4bebe91e6.png">
+<img width="1440" alt="5" src="https://user-images.githubusercontent.com/93712648/174129756-c49362f7-6a4c-4ebe-ae0d-49915464d91e.png">
+<img width="1440" alt="6" src="https://user-images.githubusercontent.com/93712648/174129761-f5dbc803-b390-469f-b284-3e9a9af069ae.png">
+<img width="1440" alt="7" src="https://user-images.githubusercontent.com/93712648/174129767-1efa1ffd-0524-4c6c-9a68-23ac0884ab24.png">
 
 <h2>2. Design database</h2>
 
