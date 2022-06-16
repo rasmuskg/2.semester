@@ -182,6 +182,13 @@ $dbconnect->close();
 
 <h2>5. Databasefunktioner</h2>
 
+
+<h3>Vis over- og underkategorier</h3>
+
+```php
+e
+```
+
 <h3>Søg efter indlæg skrevet om varen, Malm</h3>
 
 ```php
