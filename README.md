@@ -32,8 +32,10 @@ Fra brugerens profilside er der adgang til at: Se egne hacks (my hacks), se andr
 <img width="1436" alt="5" src="https://user-images.githubusercontent.com/93712648/174130245-ff0f0a83-fcb0-47a0-b5fa-54c3811c5e94.png">5. Når brugeren klikker ind på en artikel/et hack, får brugeren mulighed for at se flere oplysninger. Det gælder fx en beskrivelse samt et billede hvor det oprindelige IKEA-møbel er tagget. Derudover får brugeren også mulighed for at bedømme denne artikel samt gemme den til sin egen liste. Til sidst kan brugeren se flere hacks fra samme bruger, hvilket vil give god mening, hvis man godt kan lide den pågælende brugers stil, smag og styling.
 <br>
 <br>
-<img width="1435" alt="6" src="https://user-images.githubusercontent.com/93712648/174130248-d67e8881-4639-4047-a486-ef74c79a7775.png">
-<img width="1436" alt="7" src="https://user-images.githubusercontent.com/93712648/174130255-8c3032cb-6806-4f75-b414-dee8988fd2b5.png">
+<img width="1435" alt="6" src="https://user-images.githubusercontent.com/93712648/174130248-d67e8881-4639-4047-a486-ef74c79a7775.png">6. På oversigten over alle artikler/hacks, kan brugeren se de seneste hacks samt have mulighed for at finde hacks der matcher brugerens præferencer. For at finde netop disse artikler, kan brugeren finde frem til hacks med søgning på fritekst eller ved at navigere i tags og kategorier. Det vil sige, at der er god mulighed for at finde relevante hacks der igen matcher brugerens præferencer. Når der er foretaget en søgning, vises det pågældende resultat og systemet finder også lignende hacks.
+<br>
+<br>
+<img width="1436" alt="7" src="https://user-images.githubusercontent.com/93712648/174130255-8c3032cb-6806-4f75-b414-dee8988fd2b5.png">7. Til sidst har brugeren mulighed for at påbegynde arbejdet med et hack. Det oprettes fra profilsiden. For at artiklen kan gemmes som kladde, skal der som minimum udfyldes en titel. Herefter kan artiklen gemmes så mange gange det ønskes. Når opslaget er færdiggjort og titel, kategori, tags, beskrivelse og billede er udfyldt, kan dette hack gøres offfentligt tilgængeligt på portalen. Der kan efterfølgende ændres i indholdet uden problemer.
 
 <h3>Wireframes (administrator)</h3>
 <a href="https://www.figma.com/proto/9PXVOB1noPOAKl3R8q4gbD/IKEA-Hacks---Administrator?node-id=14%3A2&starting-point-node-id=14%3A2" target="_blank">Se klikbar prototype her</a><br><br>
