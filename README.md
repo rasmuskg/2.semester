@@ -198,7 +198,6 @@ $dbconnect->close();
 <h2>4. Udfyld database</h2>
 
 ![Blank diagram - Page 1](https://user-images.githubusercontent.com/93712648/174152252-feb5c957-5077-41b6-a9c7-76462c822439.png)
-
 <br><br>
 <h2>5. Databasefunktioner</h2>
 
