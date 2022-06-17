@@ -211,7 +211,6 @@ FROM mainnav
 JOIN subcat
 ON mainnav.maincat_name = subcat.subcat_name
 ```
-Her henter vi navnene på hovedkategorier og underkategoier.
 
 <h3>Vis overkategorier og antal underkategorier der er hhv. oprettet og synlige for online brugere</h3>
 
