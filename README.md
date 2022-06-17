@@ -52,8 +52,12 @@ Fra brugerens profilside er der adgang til at: Se egne hacks (my hacks), se andr
 <img width="1437" alt="24" src="https://user-images.githubusercontent.com/93712648/174131098-8dfd3d3c-3dec-4586-a7cc-acbef5e2be34.png">4. Når medarbejderen skal oprette en ny kategori, skal der udfyldes en titel, et tag, en forældre hvis det er en underkategori samt en beskrivelse af kategorien og et billede til at fuldende det visuelle udtryk.
 <br>
 <br>
-<img width="1438" alt="25" src="https://user-images.githubusercontent.com/93712648/174131109-247c234c-fba6-42a4-9bd6-fcf2c208ab92.png">
-<img width="1437" alt="26" src="https://user-images.githubusercontent.com/93712648/174131115-0dbc5cb5-5967-4acd-90e4-1908c7ca7d3b.png">
+<img width="1438" alt="25" src="https://user-images.githubusercontent.com/93712648/174131109-247c234c-fba6-42a4-9bd6-fcf2c208ab92.png">5. Ligesom en almindelig bruger/contributor, har medarbejderen også adgang til det samlede overblik over hacks med kategorisøgning samt fritekst søgning. Fra denne oversigt har medarbejderen mulighed for at se opslag og evt. foretage en handling, hvis det er påkrævet.
+<br>
+<br>
+<img width="1437" alt="26" src="https://user-images.githubusercontent.com/93712648/174131115-0dbc5cb5-5967-4acd-90e4-1908c7ca7d3b.png">6. Hvis et hack ikke lever op til retningslinjerne eller det er sket fejl i oprettelsen, har medarbejderen mulighed for at slette et opslag. Det skal dog kun bruges i nødstilfælde og i forbindelse med at der modereres på artiklerne.
+<br>
+<br>
 
 
 <br><br>
