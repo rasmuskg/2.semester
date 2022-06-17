@@ -26,8 +26,12 @@ Fra brugerens profilside er der adgang til at: Se egne hacks (my hacks), se andr
 <img width="1436" alt="3" src="https://user-images.githubusercontent.com/93712648/174130232-9ab35cf0-287c-4b15-b311-289b90ed00f1.png">3. Hvis brugeren ikke allerede har et login, kan brugeren nu oprette sig et login.
 <br>
 <br>
-<img width="1435" alt="4" src="https://user-images.githubusercontent.com/93712648/174130241-7b05e4ac-900d-4852-b53f-1c8ecbb4889e.png">
-<img width="1436" alt="5" src="https://user-images.githubusercontent.com/93712648/174130245-ff0f0a83-fcb0-47a0-b5fa-54c3811c5e94.png">
+<img width="1435" alt="4" src="https://user-images.githubusercontent.com/93712648/174130241-7b05e4ac-900d-4852-b53f-1c8ecbb4889e.png">4. Når brugeren er logget ind, vil brugeren se profilsiden. Fra profilsiden kan brugeren se sine seneste hacks, gemte hacks, oprette et hack samt gå til oversigten over alle hacks i systemet.
+<br>
+<br>
+<img width="1436" alt="5" src="https://user-images.githubusercontent.com/93712648/174130245-ff0f0a83-fcb0-47a0-b5fa-54c3811c5e94.png">5. Når brugeren klikker ind på en artikel/et hack, får brugeren mulighed for at se flere oplysninger. Det gælder fx en beskrivelse samt et billede hvor det oprindelige IKEA-møbel er tagget. Derudover får brugeren også mulighed for at bedømme denne artikel samt gemme den til sin egen liste. Til sidst kan brugeren se flere hacks fra samme bruger, hvilket vil give god mening, hvis man godt kan lide den pågælende brugers stil, smag og styling.
+<br>
+<br>
 <img width="1435" alt="6" src="https://user-images.githubusercontent.com/93712648/174130248-d67e8881-4639-4047-a486-ef74c79a7775.png">
 <img width="1436" alt="7" src="https://user-images.githubusercontent.com/93712648/174130255-8c3032cb-6806-4f75-b414-dee8988fd2b5.png">
 
