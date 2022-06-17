@@ -199,6 +199,7 @@ $dbconnect->close();
 
 ![Blank diagram - Page 1](https://user-images.githubusercontent.com/93712648/174152252-feb5c957-5077-41b6-a9c7-76462c822439.png)
 
+<br><br>
 <h2>5. Databasefunktioner</h2>
 
 
@@ -210,6 +211,7 @@ FROM mainnav
 JOIN subcat
 ON mainnav.maincat_name = subcat.subcat_name
 ```
+Her henter vi navnene på hovedkategorier og underkategoier.
 
 <h3>Vis overkategorier og antal underkategorier der er hhv. oprettet og synlige for online brugere</h3>
 
