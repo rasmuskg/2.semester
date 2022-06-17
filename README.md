@@ -41,15 +41,17 @@ Fra brugerens profilside er der adgang til at: Se egne hacks (my hacks), se andr
 <a href="https://www.figma.com/proto/9PXVOB1noPOAKl3R8q4gbD/IKEA-Hacks---Administrator?node-id=14%3A2&starting-point-node-id=14%3A2" target="_blank">Se klikbar prototype her</a><br><br>
 
 <img width="1437" alt="21" src="https://user-images.githubusercontent.com/93712648/174131073-7dc0a9d5-4722-4224-9189-8684d71c836f.png">1. Som medarbejder på systemet, bruger man en anden URL for at tilgå backenden. Når administratoren tilgår siden, skal han trykke log ind.
-
-<br><br>
+<br>
+<br>
 <img width="1437" alt="22" src="https://user-images.githubusercontent.com/93712648/174131080-39287a5d-b54c-42c7-8074-6bc29b6dd7a4.png">2. Medarbejderen skal logge ind med sin mail samt den dertil knyttede adgangskode.
-
-<br><br>
-<img width="1437" alt="23" src="https://user-images.githubusercontent.com/93712648/174131090-e47b89c1-facc-47b1-a0a1-02dc95bfae04.png">3. Medarbejderen skal logge ind med sin mail samt den dertil knyttede adgangskode.
-
-<br><br>
-<img width="1437" alt="24" src="https://user-images.githubusercontent.com/93712648/174131098-8dfd3d3c-3dec-4586-a7cc-acbef5e2be34.png">
+<br>
+<br>
+<img width="1437" alt="23" src="https://user-images.githubusercontent.com/93712648/174131090-e47b89c1-facc-47b1-a0a1-02dc95bfae04.png">3. Fra profilsiden kan medarbejderen se kategorier og nyeste hacks, samt tilgå oversigten over alle hacks. Derudover kan medarbejderen også vedligeholde kategorier og underkategorier ved at tilføje og slette. Det kan opstå fejl, trends stopper og nye kommer til. Derfor er det vigtigt, at dette kan håndteres nemt på platformen.
+<br>
+<br>
+<img width="1437" alt="24" src="https://user-images.githubusercontent.com/93712648/174131098-8dfd3d3c-3dec-4586-a7cc-acbef5e2be34.png">4. Når medarbejderen skal oprette en ny kategori, skal der udfyldes en titel, et tag, en forældre hvis det er en underkategori samt en beskrivelse af kategorien og et billede til at fuldende det visuelle udtryk.
+<br>
+<br>
 <img width="1438" alt="25" src="https://user-images.githubusercontent.com/93712648/174131109-247c234c-fba6-42a4-9bd6-fcf2c208ab92.png">
 <img width="1437" alt="26" src="https://user-images.githubusercontent.com/93712648/174131115-0dbc5cb5-5967-4acd-90e4-1908c7ca7d3b.png">
 
