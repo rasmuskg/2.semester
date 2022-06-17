@@ -17,16 +17,13 @@ Fra brugerens profilside er der adgang til at: Se egne hacks (my hacks), se andr
 <h3>Wireframes (contributor)</h3>
 <a href="https://www.figma.com/proto/4Qh4LO264MYrTCj1ktGnsA/IKEA-Hacks---Contributor?node-id=14%3A2&starting-point-node-id=14%3A2" target="_blank">Se klikbar prototype her</a><br><br>
 
-<img width="1432" alt="1" src="https://user-images.githubusercontent.com/93712648/174130216-4a7ff6aa-6811-4598-9314-0a95ac089982.png">
-1. Brugeren får mulighed for at 1) logge ind 2) oprette en bruger.
+<img width="1432" alt="1" src="https://user-images.githubusercontent.com/93712648/174130216-4a7ff6aa-6811-4598-9314-0a95ac089982.png">1. Brugeren får mulighed for at 1) logge ind 2) oprette en bruger.
 
 <br>
-<img width="1435" alt="2" src="https://user-images.githubusercontent.com/93712648/174130227-3a837847-faba-4295-b59b-3541420325b7.png">
-2. Brugeren udfylder sin e-mailadresse samt adgangskode for at logge ind.
+<img width="1435" alt="2" src="https://user-images.githubusercontent.com/93712648/174130227-3a837847-faba-4295-b59b-3541420325b7.png">2. Brugeren udfylder sin e-mailadresse samt adgangskode for at logge ind.
 
 <br>
-<img width="1436" alt="3" src="https://user-images.githubusercontent.com/93712648/174130232-9ab35cf0-287c-4b15-b311-289b90ed00f1.png">
-3. Hvis brugeren ikke allerede har et login, kan brugeren nu oprette sig et login.
+<img width="1436" alt="3" src="https://user-images.githubusercontent.com/93712648/174130232-9ab35cf0-287c-4b15-b311-289b90ed00f1.png">3. Hvis brugeren ikke allerede har et login, kan brugeren nu oprette sig et login.
 
 <br>
 <img width="1435" alt="4" src="https://user-images.githubusercontent.com/93712648/174130241-7b05e4ac-900d-4852-b53f-1c8ecbb4889e.png">
