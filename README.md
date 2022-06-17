@@ -56,9 +56,6 @@ Fra brugerens profilside er der adgang til at: Se egne hacks (my hacks), se andr
 <br>
 <br>
 <img width="1437" alt="26" src="https://user-images.githubusercontent.com/93712648/174131115-0dbc5cb5-5967-4acd-90e4-1908c7ca7d3b.png">6. Hvis et hack ikke lever op til retningslinjerne eller det er sket fejl i oprettelsen, har medarbejderen mulighed for at slette et opslag. Det skal dog kun bruges i nødstilfælde og i forbindelse med at der modereres på artiklerne.
-<br>
-<br>
-
 
 <br><br>
 
